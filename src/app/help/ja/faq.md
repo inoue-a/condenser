@@ -142,7 +142,7 @@
 - <a href="/faq.html#What_causes_my_reputation_score_to_go_down">評価スコアが下がる理由は何ですか？</a>
 - <a href="/faq.html#Why_does_my_reputation_score_matter">評価スコアはなぜ重要なのですか？</a>
 
-<a class="anchor" name="Table_of_Contents_Followers__Feeds_and_Resteem"></a
+<a class="anchor" name="Table_of_Contents_Followers__Feeds_and_Resteem"></a>
 ### フォロワー、フィード、Resteem
 - <a href="/faq.html#What_is_Resteeming">Resteemとは何ですか？</a>
 - <a href="/faq.html#Can_I_share_on_other_social_media">他のソーシャルメディアとシェアすることはできますか？</a>
@@ -604,7 +604,7 @@ Steemitは合法であればどのようなコンテンツでも歓迎しホス�
 
 一般的なマークダウンの構文は：
 - `**太字**` **太字**
-- `_イタリック_` _イタリック_
+- `_italics_` _italics_
 - `~~打ち消し線~~` ~~打ち消し線~~
 
 ヘッダを使うことでテキストサイズを変更できます：
