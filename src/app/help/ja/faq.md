@@ -28,6 +28,7 @@
 - <a href="/faq.html#Am_I_allowed_to_create_more_than_one_account">複数のアカウントを作成することはできますか？</a>
 - <a href="/faq.html#Can_I_delete_or_deactivate_my_account">アカウントを削除または無効化することはできますか？</a>
 
+<a class="anchor" name="Table_of_Contents_Community"></a>
 ### コミュニティ
 - <a href="/faq.html#Is_there_an_Etiquette_Guide_for_Steemit">Steemitのエチケットガイドはありますか？</a>
 - <a href="/faq.html#Am_I_required_to_verify_my_identity">身元確認の必要はありますか？</a>
