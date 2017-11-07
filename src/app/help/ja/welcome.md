@@ -23,7 +23,7 @@
 - <a href="/welcome#Resteem">Resteem</a>
 - <a href="/welcome#Digital_Currencies">デジタル通貨</a>
 - <a href="/welcome#Curation">キュレーション</a>
-- <a href="/welcome#Payments"> 支払い</a>
+- <a href="/welcome#Payments">支払い</a>
 - <a href="/welcome#Home,_New,_Hot,_Trending,_Promoted,_and_Active">ホーム、新着、ホット、トレンド、プロモート</a>
 - <a href="/welcome#Profile">プロフィール</a>
 - <a href="/welcome#Reputation">評価</a>
@@ -35,7 +35,7 @@
 ### ToDoリスト
 
 1. <a href="/welcome#Backup_your_password">パスワードをバックアップする</a>
-2. <a href="/welcome#Sign_Up_for_Steemit_Chat"> Steemit Chatにサインアップする</a>
+2. <a href="/welcome#Sign_Up_for_Steemit_Chat">Steemit Chatにサインアップする</a>
 3. <a href="/welcome#Setup_your_Profile_Avatar_and_Cover_Image">プロフィール、アバター、カバー画像を設定する</a>
 4. <a href="/welcome#Choose_your_NSFW_(Not_Safe_for_Work)_Display_Preference">"NSFW"（閲覧注意）表示設定を選択する</a>
 5. <a href="/welcome#Create_your_introduceyourself_post">"introduceyourself"投稿を作成する</a>
@@ -191,7 +191,7 @@ STEEM、Steem Power、Steem DollarsはSteemブロックチェーンで使用さ�
 
 評価スコアはあなたがコミュニティにもたらした価値の総量をSteemitが測る尺度の1つです。
 
-高い数値を持つほど、アカウントの得票数が増加します。
+高い数値を持つほど、アカウントが得られる投票が増加します。
 
 すべての新規ユーザーは25でスタートします。
 
@@ -354,7 +354,7 @@ NSFWの表示設定を、デフォルトで常に表示するか、閲覧する�
 - [FAQ](https://steemit.com/faq.html)
 - [Steemit Help](https://www.steemithelp.net/)
 - [Steemホワイトペーパー](https://steem.io/SteemWhitePaper.pdf)
-- [Steem App Center](http://steemtools.com/)
+- [Steemアプリセンター](http://steemtools.com/)
 - [Steemブロックエクスプローラ](https://steemd.com/)
 - [Steemブロックチェーンエクスプローラ](https://steemdb.com/)
 

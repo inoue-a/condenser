@@ -105,7 +105,7 @@
 - <a href="/faq.html#How_can_I_withdraw_my_STEEM_or_SBD_coins">STEEMやSBDを引き出すにはどうすればいいですか？</a>
 - <a href="/faq.html#Will_I_get_a_1099_from_Steemit">Steemitから1099はもらえますか？</a>
 - <a href="/faq.html#How_much_are_the_transaction_fees_for_sending_tokens_to_other_users">他のユーザにトークンを送るときの取引手数料はいくらですか？</a>
-- <a href="/faq.html#Are_there_fees_for_Powering_Up__Powering_Down__trading_on_the_internal_market__or_converting_SBD_to_STEEM">パワーアップ、パワーダウン、内部マーケットでの取引、SBDのSTEEMへの変換には手数料がかかりますか？</a>
+- <a href="/faq.html#Are_there_fees_for_Powering_Up__Powering_Down__trading_on_the_internal_market__or_converting_SBD_to_STEEM">パワーアップ、パワーダウン、内部取引所での取引、SBDのSTEEMへの変換には手数料がかかりますか？</a>
 - <a href="/faq.html#How_long_does_it_take_to_transfer_STEEM_or_SBD_tokens_between_users">ユーザー間のSTEEMやSBDトークンの転送にはどれくらいの時間がかかりますか？</a>
 
 <a class="anchor" name="Table_of_Contents_Voting_and_Curating"></a>
@@ -141,7 +141,7 @@
 - <a href="/faq.html#What_causes_my_reputation_score_to_go_down">評価スコアが下がる理由は何ですか？</a>
 - <a href="/faq.html#Why_does_my_reputation_score_matter">評価スコアはなぜ重要なのですか？</a>
 
-<a class="anchor" name="Table_of_Contents_Followers__Feeds_and_Resteem"></a>
+<a class="anchor" name="Table_of_Contents_Followers__Feeds_and_Resteem"></a
 ### フォロワー、フィード、Resteem
 - <a href="/faq.html#What_is_Resteeming">Resteemとは何ですか？</a>
 - <a href="/faq.html#Can_I_share_on_other_social_media">他のソーシャルメディアとシェアすることはできますか？</a>
@@ -151,7 +151,7 @@
 - <a href="/faq.html#What_is_a_blockchain">ブロックチェーンとは何ですか？</a>
 - <a href="/faq.html#What_is_the_Steem_blockchain">Steemブロックチェーンとは何ですか？</a>
 - <a href="/faq.html#What_is_the_difference_between_Steem_and_Steemit">SteemとSteemitの違いは何ですか？</a>
-- <a href="/faq.html#How_is_Steem_different_from_Bitcoin">Steemはビットコインとどう違うのですか？</a>
+- <a href="/faq.html#How_is_Steem_different_from_Bitcoin">Steemはビットコインとどう違うのですか？ </a>
 - <a href="/faq.html#What_is_the_difference_between_Proof_of_Work__Proof_of_Stake__and_Delegated_Proof_of_Stake">プルーフ・オブ・ワーク、プルーフ・オブ・ステーク、委任プルーフ・オブ・ステークの違いは何ですか？</a>
 - <a href="/faq.html#How_often_does_the_Steem_blockchain_produce_a_new_block">Steemブロックチェーンの新しいブロックはどのくらいの頻度で生成されますか？</a>
 - <a href="/faq.html#Is_there_a_way_to_see_the_raw_data_that_is_stored_in_the_blockchain">ブロックチェーンに格納されている生のデータを見る方法はありますか？</a>
@@ -161,9 +161,9 @@
 <a class="anchor" name="Table_of_Contents_Steemit__Inc"></a>
 ### Steemit, Inc.
 - <a href="/faq.html#Who_is_the_CEO_of_Steemit">SteemitのCEOは誰ですか？</a>
-- <a href="/faq.html#Can_I_invest_in_Steemit">Steemitに投資することはできますか？</a>
+- <a href="/faq.html#Can_I_invest_in_Steemit">Steemitに投資することはできますか？ </a>
 - <a href="/faq.html#What_does_Steemit_s_development_roadmap_look_like">Steemitの開発ロードマップはどのようなものですか？</a>
-- <a href="/faq.html#Am_I_allowed_to_use_the_Steemit_logo">Steemitのロゴは利用できますか？</a>
+- <a href="/faq.html#Am_I_allowed_to_use_the_Steem_and_Steemit_logos">SteemとSteemitのロゴは使用できますか？</a>
 - <a href="/faq.html#Can_I_purchase_official_Steemit_merchandise">Steemitの公式グッズを購入できますか？</a>
 - <a href="/faq.html#Did_Steemit__pre_mine__tokens">Steemitには“プレマイン”トークンはありましたか？</a>
 - <a href="/faq.html#What_is_the_Steemit_Privacy_Policy">Steemitのプライバシー・ポリシーはどうなっていますか？</a>
@@ -213,13 +213,13 @@
 
 Steemitは大勢の人々を関心経済の受益者にするソーシャルネットワークとコンテンツ報酬プラットフォームです。ユーザーにはSTEEMで報酬を出します。
 
-Steemitは活発で生き生きとし、成長するソーシャル経済の構築によってソーシャルメディアを再定義します。それは、ユーザが自分の発言を共有して報酬を得ているコミュニティです。
+Steemitは活発で生き生きとし、成長するソーシャル経済の構築によってソーシャルメディアを再定義します。それは、ユーザが自分の発言を共有して報酬を得るコミュニティです。
 
 <a href="/faq.html#Table_of_Contents_General">^</a>
 <a class="anchor" name="How_does_Steemit_work"></a>
 ## Steemitはどういう仕組みになっていますか？
 
-Steemitは大勢の人々のコンテンツに大勢の人々が報酬を出すことで機能するソーシャルメディアプラットフォームです。これはSteemブロックチェーンと仮想通貨のおかげです。Steemは毎日“作り出され”、コンテンツ作成者に得た投票に応じて分配されます。
+Steemitは大勢の人々のコンテンツに大勢の人々が報酬を出すことで機能するソーシャルメディアプラットフォームです。これはSteemブロックチェーンと仮想通貨のおかげです。Steemは毎日“作り出され”、コンテンツ作成者へ彼らが獲得した投票に応じて分配されます。
 
 <a href="/faq.html#Table_of_Contents_General">^</a>
 <a class="anchor" name="How_does_Steemit_differ_from_other_social_media_websites"></a>
@@ -241,7 +241,7 @@ Steemitのデジタルトークンは以下の方法で得ることができま�
 
 **投稿** - あなたが投稿を共有することにより、コミュニティメンバーからUpvoteをもらえます。あなたが受け取ったアップヴォートに応じて、継続したSteem報酬プールから一部がもらえます。
 
-**投票とキュレーション** - あなたが投稿を見つけ、それが人気が出る前にUpvoteすると、あなたはキュレーション報酬をもらえます。報酬の合計はあなたが保有しているSTEEM POWERの合計に依存します。
+**投票とキュレーション** - あなたが投稿を見つけ、それが人気が出る前にUpすると、あなたはキュレーション報酬をもらえます。報酬の合計はあなたが保有しているSTEEM POWERの合計に依存します。
 
 **購入** - ユーザはSTEEMまたはSteem DollarsをSteemitのウォレットを通じて、ビットコインやイーサリアムまたはBitSharesトークンを用いて購入することができます。他のマーケットやBlockTrades、Poloniex、Bittrex、Shapeshift.io、Changellyなどの取引所から購入することも可能です。パワーアップによりSTEEM POWERに変換されたSTEEMトークンは保持している間、少額の利子がつきます。
 
@@ -255,7 +255,7 @@ Steemネットワークはコンテンツ作者やキュレーターに報酬を
 <a class="anchor" name="Where_does_the_value_come_from"></a>
 ## 価値はどこから来ていますか？
 
-根本的には、Steemは単なるポイントシステムです。しかし、このポイントシステムがブロックチェーンベースということによって、ポイントがトークンとしてマーケットで取引されます。人々はトークンを売買して、様々なSteem関連サービスの購買力を高めることを期待しています。
+根本的には、Steemは単なるポイントシステムです。しかし、このポイントシステムがブロックチェーンベースということによって、ポイントがトークンとしてマーケットで取引されます。人々はトークンを売買して、様々なSteem関連サービスの購買力を高めようとしています。
 
 類推すれば、Steemは人々がコンテンツをもたらしてプラットフォームに価値を与えることによって関心と報酬のために競い合うゲームシステムです。人々が獲得する報酬は市場価値を持ち簡単に取引できるトークンです。ビデオゲームをプレイするのと同様に、ゲームをプレイすることで限定アイテムやお金を手に入れることができます。お金やアイテムがユーザ間で譲渡可能な場合、ゲームアイテムマーケットで売買できます。
 
@@ -303,7 +303,7 @@ Steemit.comのトップページの"登録"をクリックしてください。
 
 <a href="/faq.html#Table_of_Contents_Accounts">^</a>
 <a class="anchor" name="Can_I_create_a_Steem_account_without_an_email_and_phone_number"></a>
-## メールアドレスや電話番号を使わずにSteemアカウントを作成することはできますか？
+## メールアドレスや電話番号を使わずにSteemアカウントを作成することはできますか？ 
 
 Steemit.comでアカウントを作成する唯一の方法はメールアドレスと電話番号を使うことです。Steemはオープンで誰の許可も必要としないネットワークなので、Steemアカウントを作成する他の方法があります。どのSteemブロックチェーンアカウントもSteemit.comで使用することができます。
 
@@ -373,13 +373,13 @@ Steemit.comの公式ルールはありませんが、@thecryptofiendがコミュ
 
 これらはSteemの投稿を並べ替える様々な方法です。
 
-**ホーム** - あなたがフォローしているアカウントの最近の投稿（フィード）
+**ホーム** - あなたがフォローしているアカウントの最近の投稿（フィード）。
 
 **新着** - 最新のものを先頭にして投稿時間順に並べられた投稿です。
 
 **ホット** - 現時点で人気のある投稿です。
 
-**トレンド** - 最近の、ステークによる重み付きの投票の合計が最も大きい投稿です。
+**トレンド** - 最近の投稿の内、ステークによる重み付きの投票の合計が最も大きいものです。
 
 **プロモート** - より多くの人に閲覧してもらうため、Steem Dollarsを支払ってプロモートされた投稿の一覧です。
 
@@ -409,7 +409,7 @@ Steemit.comページの右上のアバターアイコンをクリックするこ
 <a class="anchor" name="How_do_I_see_my_recent_rewards"></a>
 ## 最近の報酬はどのやって確認できますか？
 
-Rewardsドロップダウンメニューはプロフィール/ブログページで利用可能です。クリックすると以下の2つのメニューがあります：
+報酬ドロップダウンメニューはプロフィール/ブログページにあります。クリックすると以下の2つのメニューが表示されます：
 
 **キュレーション報酬** - 投稿やコメントをアップヴォートしたことで得た報酬を表示します。
 
@@ -419,9 +419,9 @@ Rewardsドロップダウンメニューはプロフィール/ブログページ
 
 <a href="/faq.html#Table_of_Contents_Site_Navigation">^</a>
 <a class="anchor" name="What_information_is_shown_in_my_wallet"></a>
-## ウォレットにはどのような情報がありますか？
+## ウォレットにはどのような情報がありますか？ 
 
-ウォレットはあなたのアカウントにどれだけのSTEEMやSteem Dollarsトークンがあるのかを表示します。どれくらいのSTEEM POWERがあるのか、また、どれくらいのSPが委託されているのかを表示します。また、STEEMやSteem Dollarsの内どれくらいが貯蓄口座に保持されているのかを表示します。残高の引き出しには3日かかります。Steem DollarsからSTEEMへの変換の進行状況やパワーダウンの状況も表示されます。STEEMとSBDの最近の市場価格に基づいて、すべてのトークンの推定価格も表示します。
+ウォレットはあなたのアカウントにどれだけのSTEEMやSteem Dollarトークンがあるのかを表示します。どれくらいのSTEEM POWERがあるのか、また、どれくらいのSPが委託されているのかを表示します。また、STEEMやSteem Dollarの内どれくらいが貯蓄口座に保持されているのかを表示します。残高の引き出しには3日かかります。Steem DollarからSTEEMへの変換の進行状況やパワーダウンの状況も表示されます。STEEMとSBDの最近の市場価格に基づいて、すべてのトークンの推定価格も表示します。
 
 <a href="/faq.html#Table_of_Contents_Site_Navigation">^</a>
 <a class="anchor" name="How_do_I_transfer_my_STEEM_or_Steem_Dollars_into_savings"></a>
@@ -433,7 +433,7 @@ Rewardsドロップダウンメニューはプロフィール/ブログページ
 <a class="anchor" name="How_do_I_send_money_to_another_user"></a>
 ## 他のユーザに送金するにはどうすればいいですか？
 
-- ウォレットページのSTEEMまたはSteem Dollars残高の横の下矢印をクリックします。
+- ウォレットページのSTEEMまたはSteem Dollar残高の横の下矢印をクリックします。
 - ドロップダウンメニューの"送金"をクリックします。
 - STEEMやSteem Dollarsを送りたいアカウントのユーザー名を入力します。スペルを二重、三重にチェックします。
 - 送りたいSTEEMまたはSteem Dollarsの金額を入力します。
@@ -529,7 +529,7 @@ Steemitは合法であればどのようなコンテンツでも歓迎しホス�
 
 - **パワーアップ100%** - このオプションは100%をSTEEM Powerで報酬を出します。
 
-- **報酬を辞退** - このオプションを使うと投稿報酬を受け取れなくなります。。投票はトレンドランキングの位置に影響しますが、Steemの報酬プールから報酬の支払いはありません。投稿へのコメントは変わらず報酬の対象になります
+- **報酬を辞退** - このオプションを使うと投稿報酬を受け取れなくなります。投票はトレンドランキングの位置に影響しますが、Steemの報酬プールから報酬の支払いはありません。投稿へのコメントは変わらず報酬の対象になります。
 
 <a href="/faq.html#Table_of_Contents_Posting">^</a>
 <a class="anchor" name="How_do_I_add_images_and_photos_to_my_posts"></a>
@@ -537,7 +537,7 @@ Steemitは合法であればどのようなコンテンツでも歓迎しホス�
 
 エディタの"選択"リンクをクリックすることにより、ハードディスクをから画像を追加することができます。
 
-クリップボードに画像をコピーしている場合は、単に投稿/コメントエディタで貼り付け (`ctrl + v`) をするだけでアップロードされます。貼り付けられた画像のファイルサイズの問題で、この方法は単純なグラフィックにのみ推奨されます。写真（.JPG）はディスクからアップロードする必要があります。
+クリップボードに画像をコピーしている場合は、投稿/コメントエディタで貼り付け (`ctrl + v`) するだけでアップロードされます。貼り付けられた画像のファイルサイズの問題で、この方法は単純なグラフィックにのみ推奨されます。写真（.JPG）はディスクからアップロードする必要があります。
 
 写真は外部サイトでホストすることもできます。エディタに画像のwebアドレス（URL）を貼り付けると自動的に追加されます。
 
@@ -630,7 +630,7 @@ Steemitは合法であればどのようなコンテンツでも歓迎しホス�
 <a class="anchor" name="How_long_can_my_post_be"></a>
 ## どれくらいの長さの投稿が可能ですか？
 
-投稿サイズは書式設定を含めて64,000文字に制限されています。これはほとんどの投稿に十分です。ブログを書くとき、一度にどれくらいの人が喜んで読んでいるかを考えてみてください。あまりにも長過ぎる記事を作ると、読者は興味を失い、アップヴォート量と受け取る報酬に影響するでしょう。
+投稿サイズは書式設定を含めて64,000文字に制限されています。これはほとんどの投稿に十分です。ブログを書くとき、一度にどれくらいの人が喜んで読んでいるかを考えてみてください。あまりにも長過ぎる記事を作ると、読者は興味を失い、Upvote量と受け取る報酬に影響するでしょう。
 
 <a href="/faq.html#Table_of_Contents_Posting">^</a>
 <a class="anchor" name="If_posting_in_a_language_other_than_English__how_will_I_get_recognized"></a>
@@ -657,9 +657,9 @@ Steemitは合法であればどのようなコンテンツでも歓迎しホス�
 <a class="anchor" name="What_does__Promoting__a_post_do"></a>
 ## 投稿を“プロモート”するとは何ですか？
 
-When you make a post, there is the option to promote it with Steem Dollars. あなたが投稿するとき、それをSteem Dollarsでプロモートするオプションがあります。それは“プロモート”タブに表示されます。リストに表示される順番はその投稿がどのくらいプロモートされたかによります。プロモート額が高い投稿は低い投稿より上になります。
+作成した投稿をSteem Dollarsでプロモートするオプションがあります。プロモートした投稿は“プロモート”タブに表示されます。リストに表示される順番はその投稿がどのくらいプロモートされたかによります。プロモート額が高い投稿は低い投稿より上になります。
 
-投稿をプロモートするために支払われたSteem Dollarsは所有者のいないアカウント@nullに送られます。ユーザーが@nullにSBDを送ると、Steemブロックチェーンはそれを通貨供給から排除します。詳細はこの<a href="https://steemit.com/steemit/@steemitblog/introducing-promoted-content">公式記事</a>にあります。
+投稿をプロモートするために支払われたSteem Dollarsは所有者のいないアカウント@nullに送られます。ユーザーが@nullにSBDを送ると、Steemブロックチェーンはそれを通貨供給から削除します。詳細はこの<a href="https://steemit.com/steemit/@steemitblog/introducing-promoted-content">公式記事</a>にあります。あなたは自身の投稿でも、気に入った他のユーザーの投稿でもプロモートすることができます。
 
 あなたは自身の投稿でも、気に入った他のユーザーの投稿でもプロモートすることができます。
 
@@ -670,12 +670,12 @@ When you make a post, there is the option to promote it with Steem Dollars. あ�
 各投稿の下部に"プロモート"ボタンがあります。ボタンをクリックし、支払いたいSteemドルを入力し、"プロモート"をクリックします。この操作には、マスターパスワードまたはアクティブキーが必要です。
 
 <a href="/faq.html#Table_of_Contents_Posting">^</a>
-# コメント 
+# コメント
 
 <a class="anchor" name="Can_I_earn_digital_tokens_for_commenting"></a>
 ## コメントによってデジタルトークンをもらうことができますか？
 
-はい、アップヴォートされたコメントは投稿のように報酬を得られます。
+はい、Upvoteされたコメントは投稿のように報酬を得られます。
 
 <a href="/faq.html#Table_of_Contents_Comments">^</a>
 <a class="anchor" name="How_often_can_I_comment"></a>
@@ -716,7 +716,7 @@ Steemやビットコインのようなブロックチェーンはブロックが
 <a class="anchor" name="How_is_the_reward_pool_split_between_authors_and_curators"></a>
 ## 報酬プールは投稿者とキュレーターの間でどのように分割されていますか？
 
-投稿の支払の最大25%がコンテンツを発見した報酬としてキュレーター（投稿をアップヴォートした人）に与えられます。残りの75%は投稿者に与えられます。投稿が作成されてから最初の30分以内にキュレーターが投票すると、キュレーション報酬の一部が投稿者報酬に加えられます。この部分は0から30分の間で線形です。従って、15分の時点でupvoteすると潜在的なキュレーション報酬の半分を投稿者に寄付することになります。
+投稿の支払の最大25%がコンテンツを発見した報酬としてキュレーター（投稿をupvoteした人）に与えられます。この部分は0から30分の間で線形です。従って、15分の時点でアップヴォートすると潜在的なキュレーション報酬の半分を投稿者に寄付することになります。投稿が作成されてから最初の30分以内にキュレーターが投票すると、キュレーション報酬の一部が投稿者報酬に加えられます。この部分は0から30分の間で線形です。従って、15分の時点でupvoteすると潜在的なキュレーション報酬の半分を投稿者に寄付することになります。
 
 <a href="/faq.html#Table_of_Contents_Economics">^</a>
 <a class="anchor" name="Will_the_reward_pool_pay_out_more_or_less_depending_on_who_votes"></a>
@@ -751,7 +751,7 @@ Steemにおける投票はステークによって重み付けされています
 <a class="anchor" name="What_is_the_difference_between_STEEM__STEEM_Power__and_Steem_Dollars"></a>
 ## STEEM、STEEM Power、Steem Dollarsの違いは何ですか？
 
-**STEEM** - STEEMはプラットフォームの基本的な流動的通貨です。STEEMはSTEEM POWERにパワーアップすることもできるし、Steem Dollarsと交換することや他のアカウントに送ることもできます。ビットコインのような仮想通貨トークンです。
+**STEEM** - STEEMはプラットフォームの基本的な流動的な通貨です。STEEMはSTEEM POWERにパワーアップすることもできるし、Steem Dollarsと交換することや他のアカウントに送ることもできます。ビットコインのような仮想通貨トークンです。
 
 **STEEM Power** - STEEM POWER（略称：SP）はSteemネットワークでユーザーがどれだけの影響力を持っているかの尺度です。STEEM Powerを多く持つユーザーは投稿やコメントの価値に大きな影響力を与えられます。STEEM Powerは流動的ではありません。SPをパワーダウンしたいときは、ユーザーは13週に渡って等分されたSTEEMを毎週受け取ります。
 
@@ -765,11 +765,11 @@ STEEM Powerを他のユーザーに委託するオプションがあります。
 
 ほとんどのユーザーは、Steemit.com経由でアカウントを作成した後、Steemitアカウントから少量のSTEEM Powerを委託されています。
 
-委託されたSTEEM Powerはウォレットの実際のSTEEM Power残高の下に括弧書きで表示されます。
+委託されたSTEEMパワーはウォレットの実際のSTEEMパワー残高の下に括弧書きで表示されます。
 
 <a href="/faq.html#Table_of_Contents_Economics">^</a>
 <a class="anchor" name="What_determines_the_price_of_STEEM"></a>
-## STEEMの価格は何によって決まりますか？ 
+## STEEMの価格は何によって決まりますか？
 
 STEEMの価格は取引所の買い手と売り手によるトークンの需給に基づきます。これは金のような商品価格がどのように決定されるかと同様です。
 
@@ -779,7 +779,7 @@ STEEMの価格は取引所の買い手と売り手によるトークンの需給
 
 ウォレットにSTEEMトークンがあれば、"パワーアップ"をクリックしてSTEEM Powerに変換します。Steem Dollarsを持っている場合は、ウォレットでSTEEMに変換してパワーアップを行います。
 
-ウォレットにSTEEMやSteem Dollarsを持っていない場合は、ビットコイン（BTC）やイーサリアム（ETH）やBitShares（BTS）で購入することができます。Coinbase.comやLocalbitcoins.comなどの様々な取引所でBTCを購入することができます。
+ウォレットにSTEEMやSteem Dollarsを持っていない場合は、ビットコイン（BTC）やイーサ（ETH）やBitShares（BTS）で購入することができます。Coinbase.comやLocalbitcoins.comなどの様々な取引所でBTCを購入することができます。
 
 購入方法：
 - Steemit.comの右上にあるメインメニューまたはウォレットの"STEEMを買う"をクリックします。
@@ -820,7 +820,7 @@ Steemブロックチェーンのトランザクションは通常3秒しかか�
 
 <a href="/faq.html#Table_of_Contents_Economics">^</a>
 <a class="anchor" name="Will_1_Steem_Dollar_always_be_worth__1_00_USD"></a>
-## 1Steem Dollarsは常に1USドルの価値がありますか？
+## 1 Steem Dollarは常に1USドルの価値がありますか？
 
 Steem Dollarsの市場価格はトークンの需給で決まります。従って、市況に応じて1SBDは1USドルよりも高いまたは安い可能性があります。しかし、ネットワークのSBD変換機能はUSドルとの僅かなマージン内にSteem Dollarsを保つように機能します。
 
@@ -905,7 +905,7 @@ Steemネットワーク内の送金には一切の手数料がかかりません
 
 <a href="/faq.html#Table_of_Contents_Economics">^</a>
 <a class="anchor" name="Are_there_fees_for_Powering_Up__Powering_Down__trading_on_the_internal_market__or_converting_SBD_to_STEEM"></a>
-## パワーアップ、パワーダウン、内部マーケットでの取引、SBDのSTEEMへの変換には手数料がかかりますか？
+## パワーアップ、パワーダウン、内部取引所での取引、SBDのSTEEMへの変換には手数料がかかりますか？
 
 いいえ。これらの行為のいずれにも手数料はかかりません。
 
@@ -923,7 +923,7 @@ Steemネットワーク内の送金には一切の手数料がかかりません
 
 Voting Powerはコンピュータゲームの“エネルギーバー”のようなもので投票するたびに少しずつ下がります。100%Voting Powerからスタートします。投票するたびに、あなたはVoting Powerを少し使用します。
 
-Voting Powerを大量に使用すると、あなたの投票が持つ影響力は小さくなります。50%のVoting Powerでは100%Voting Powerを用いた投票の半分の価値になります。しかし心配は無用です。Voting Powerは毎日20%チャージされます。
+Voting Powerを大量に使用すると、あなたの投票が持つ影響力は小さくなります。50%のVoting Powerでは100%Voting Powerを用いた投票の半分の価値になります。しかし心配は無用です。Voting Powerは毎日20%チャージされます。しかし心配は無用です。Voting Powerは毎日20%チャージされます。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="How_many_times_can_I_vote_without_depleting_my_voting_power"></a>
@@ -945,9 +945,9 @@ upvoteとdownvoteで同じVoting Powerを使用します。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="Where_can_I_check_my_voting_power"></a>
-## どこで自分のVoting Powerを確認できますか？ 
+## どこで自分のVoting Powerを確認できますか？
 
-You can view your current voting power using third party tools such as https://steemd.com/@youraccount or https://steemstats.com.
+https://steemd.com/@youraccount や https://steemstats.com などのサードパーティツールで現在のVoting Powerを確認できます。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="What_determines_how_much_of_the_curation_reward_goes_to_the_author_versus_curators"></a>
@@ -957,11 +957,11 @@ You can view your current voting power using third party tools such as https://s
 
 キュレーターに行く25%の内、最初の30分以内にキュレーターが投票した場合は一部が投稿者とキュレーターで分配されます。最初の30分間の投稿者とキュレーターの25%は、投票が行われた時間によって線形に分配されます。
 
-- 投稿された瞬間にアップヴォートされると、キュレーション報酬の100%が投稿者に行きます。
+- 投稿された瞬間にupvoteされると、キュレーション報酬の100%が投稿者に行きます。
 - 3分の場合、90%が投稿者に、10%がキュレーターに行きます。
 - 15分の場合、半分ずつに分配されます。
 - 27分の場合、10%が投稿者に、90%がキュレーターに行きます。
-- 30分経過後にアップヴォートされた場合、キュレーション報酬の100%がキュレーターに行きます。
+- 30分経過後にupvoteされた場合、キュレーション報酬の100%がキュレーターに行きます。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="Can_I_get_curation_rewards_for_upvoting_comments"></a>
@@ -973,7 +973,7 @@ You can view your current voting power using third party tools such as https://s
 <a class="anchor" name="Do_I_get_curation_rewards_for_downvoting_posts_or_comments"></a>
 ## 投稿やコメントをDownvoteすることでキュレーション報酬をもらえますか？
 
-いいえ。ダウンヴォートは投稿やコメントから報酬を削除するため、キュレーション報酬をもらうことはできません。
+いいえ。Downvoteは投稿やコメントから報酬を削除するため、キュレーション報酬をもらうことはできません。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="What_are_curation_trails"></a>
@@ -1013,13 +1013,13 @@ donvoteを受けただけでは間違ったことをしたことにはなりま�
 <a class="anchor" name="Will_a_downvote_hurt_my_reputation"></a>
 ## Downvoteは評価を傷つけますか？
 
-必ずしもそうとは限りません。 <a href="/faq.html#What_causes_my_reputation_score_to_go_down">評価スコアが下がる理由は何ですか？</a>を見てください。
+必ずしもそうとは限りません。 <a href="/faq.html#What_causes_my_reputation_score_to_go_down">評価スコアが下がる理由は何ですか？</a>を見てください。</a>
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 <a class="anchor" name="What_is_the_difference_between_a_downvote_and_a_flag"></a>
 ## Downvoteとフラグの違いは何ですか？
 
-現在の実装では、downvoteとフラグに違いはありません。それらはブロックチェーンレベルで同様に扱われます。
+現在の実装では、downvoteとフラグに違いはありません。それらはブロックチェーンレベルで同様に扱われます。それらはブロックチェーンレベルで同様に扱われます。
 
 <a href="/faq.html#Table_of_Contents_Voting_and_Curating">^</a>
 # 剽窃、スパム、悪用
@@ -1027,7 +1027,7 @@ donvoteを受けただけでは間違ったことをしたことにはなりま�
 <a class="anchor" name="What_are_Steemit_s_policies_on_plagiarism_and_spam"></a>
 ## Steemitの剽窃やスパムへのポリシーはどうなっていますか？
 
-あなたが剽窃やコピーコンテンツを投稿した場合、著作権法違反の法的問題が発生する可能性があります。剽窃投稿とスパムは悪用と見なされ、コミュニティメンバーからdownvoteされます。他の人のコンテンツを投稿または使用している場合は、そのコンテンツを利用する権利があることを確認し、入手したコンテンツのソースを適切に参照する必要があります。 
+あなたが剽窃やコピーコンテンツを投稿した場合、著作権法違反の法的問題が発生する可能性があります。剽窃投稿とスパムは悪用と見なされ、コミュニティメンバーからdownvoteされます。他の人のコンテンツを投稿または使用している場合は、そのコンテンツを利用する権利があることを確認し、入手したコンテンツのソースを適切に参照する必要があります。
 
 <a href="/faq.html#Table_of_Contents_Plagiarism__Spam__and_Abuse">^</a>
 <a class="anchor" name="Is_it_okay_to_use_random_pictures_from_the_internet"></a>
@@ -1078,7 +1078,7 @@ https://steemit.com/steemit/@cheetah/faq-about-cheetah
 
 <a href="/faq.html#Table_of_Contents_Reputation">^</a>
 <a class="anchor" name="How_is_the_Reputation_score_measured"></a>
-評価スコアはどのようにして測られていますか？
+## 評価スコアはどのようにして測られていますか？
 
 すべての新規ユーザーは評価スコア25で始まります。
 
@@ -1091,7 +1091,7 @@ https://steemit.com/steemit/@digitalnotvir/how-reputation-scores-are-calculated-
 <a class="anchor" name="How_do_I_improve_my_reputation_score"></a>
 ## どうすれば評価スコアが上がりますか？
 
-他のユーザーがあなたの投稿やコメントをupvoteする度に評価スコアは上がっていきます。あなたより高い評価を持つユーザーはより多くのポジティブな効果を持ちます。投票者のSTEEM Powerが多いほど、同様に大きな効果を持ちます。upvoteを得るための最善の方法は、Steemitコミュニティに価値を付加することです。
+他のユーザーがあなたの投稿やコメントをupvoteする度に評価スコアは上がっていきます。あなたより高い評価を持つユーザーはより多くのポジティブな効果を持ちます。投票者のSTEEM Powerが多いほど、同様に大きな効果を持ちます。アップヴォートを得るための最善の方法は、Steemitコミュニティに価値を付加することです。投票者のSTEEM Powerが多いほど、同様に大きな効果を持ちます。upvoteを得るための最善の方法は、Steemitコミュニティに価値を付加することです。
 
 <a href="/faq.html#Table_of_Contents_Reputation">^</a>
 <a class="anchor" name="What_causes_my_reputation_score_to_go_down"></a>
@@ -1132,7 +1132,7 @@ https://steemit.com/steemit/@digitalnotvir/how-reputation-scores-are-calculated-
 <a class="anchor" name="What_is_a_blockchain"></a>
 ## ブロックチェーンとは何ですか？
 
-ブロックチェーンは今までに実行されたすべてのトランザクションの公開台帳です。すべてのトランザクションとデータは分散データベースに格納されます。データベースが更新される度に、すべての更新が“ブロック”というバッチで同時に行われます。新しいブロックが生成/追加される度に、それ以前のすべてのブロックに添付されます。そのため、“ブロックチェーン”と言います。
+ブロックチェーンは今までに実行されたすべてのトランザクションの公開台帳です。すべてのトランザクションとデータは分散データベースに格納されます。データベースが更新される度に、すべての更新が“ブロック”というバッチで同時に行われます。新しいブロックが生成/追加される度に、それ以前のすべてのブロックに添付されます。そのため、“ブロックチェーン”と言います。データベースが更新される度に、すべての更新が“ブロック”というバッチで同時に行われます。新しいブロックが生成/追加される度に、それ以前のすべてのブロックに添付されます。そのため、“ブロックチェーン”と言います。
 
 <a href="/faq.html#Table_of_Contents_Blockchain">^</a>
 <a class="anchor" name="What_is_the_Steem_blockchain"></a>
@@ -1168,7 +1168,7 @@ Steemitはブロックチェーンと対話して、ブロックチェーンの�
 
 <a href="/faq.html#Table_of_Contents_Blockchain">^</a>
 <a class="anchor" name="How_often_does_the_Steem_blockchain_produce_a_new_block"></a>
-## Steemブロックチェーンの新しいブロックはどのくらいの頻度で生成されますか？
+## Steemブロックチェーンの新しいブロックはどのすか？
 
 Steemブロックチェーンは新しいブロックを3秒毎に生成するために証人をスケジュールします。21の証人ノードは21個のブロックを63秒のラウンド毎に生成します。
 
@@ -1215,19 +1215,22 @@ Steemit, Inc.は非公開会社であり、公募投資はできません。
 https://steemit.com/steemit/@steemitblog/steemit-2017-roadmap
 
 <a href="/faq.html#Table_of_Contents_Steemit__Inc">^</a>
-<a class="anchor" name="Am_I_allowed_to_use_the_Steemit_logo"></a>
-## Steemitのロゴは利用できますか？
+<a class="anchor" name="Am_I_allowed_to_use_the_Steem_and_Steemit_logos"></a>
+## SteemとSteemitのロゴは使用できますか？
 
-現在、SteemとSteemitのロゴは同じであり、自由に使用できます。将来的に、Steemit, Inc.は独自のロゴを持ち、Steemと区別できるようになります。そのSteemitのロゴには所有権がありますが、Steemとその3つのS字波線のマークは誰でも使えるように公開されたままです。
+Steemitブランドとロゴは米国およびその他の国の、著作権およびその他の財産権を含む知的財産法で保護されています。その目的はユーザーの安全性を拡大するためにSteemitのブランドとロゴを保護することです。Steemitロゴまたはブランドの、商用利用、複製、派生物の作成、コピーの配布、公演での使用、公示はフェアユースの場合または書面で許可を得た場合を除き、許可されません。
+
+[米国著作権法第107条](http://www.copyright.gov/title17/92chap1.html#107) は、何がフェアユースであるか判断するための法的枠組みを提示し、批判、コメント、報道、報告、教育、学問、研究などのフェアユースとみなされる活動の一定の類型を例示しています。**Steemitは、非商用で、他のSteemitユーザーに危害を加えるもの (例えばフィッシングサイトへの誘導) を除いて、Steemitロゴの芸術的バリエーションはフェアユースだと判断します。** 
+
+また、SteemitはSteemブロックチェーン上に作成されブロックチェーンの報酬機構から報酬を得る投稿は、許可された商用利用としています。
+
+Steemロゴはクリエイティブ・コモンズ CC0の下でライセンスされており、コピー、変更、配布 (商用利用であっても) は自由に行うことができ、許可を求めたり帰属を明示する必要はありません。
 
 <a href="/faq.html#Table_of_Contents_Steemit__Inc">^</a>
 <a class="anchor" name="Can_I_purchase_official_Steemit_merchandise"></a>
 ## Steemitの公式グッズを購入できますか？
 
-公式グッズはまだありません。ですが、zazzle.comや同様のwebサイトで簡単にSteemitグッズを作ることができます。
-
-ここに、@artist1989による説明があります：
-https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
+はい。Steemitの公式グッズは[The Steemit Shop](https://thesteemitshop.com/)で購入できます。
 
 <a href="/faq.html#Table_of_Contents_Steemit__Inc">^</a>
 <a class="anchor" name="Did_Steemit__pre_mine__tokens"></a>
@@ -1274,7 +1277,7 @@ https://steemit.com/privacy.html
 <a class="anchor" name="What_are_my_different_keys_for"></a>
 ## キーの違いは何ですか？
 
-**投稿キー** - 投稿キーは投稿、コメント、編集、投票、Resteem、フォロー、ミュートするために使用します。ほとんどのユーザーは毎日のSteemitのログインに投稿キーを使用するべきです。あなたがパスワードやキーを使用するほど漏洩する可能性は高くなります。漏洩したアカウントキーによるダメージを軽減するために制限された投稿キーが存在します。
+**投稿キー** - 投稿キーは投稿、コメント、編集、投票、Resteem、フォロー、ミュートするために使用します。ほとんどのユーザーは毎日のSteemitのログインに投稿キーを使用するべきです。あなたがパスワードやキーを使用するほど漏洩する可能性は高くなります。漏洩したアカウントキーによるダメージを軽減するために制限されたポストキーが存在します。ほとんどのユーザーは毎日のSteemitのログインに投稿キーを使用するべきです。あなたがパスワードやキーを使用するほど漏洩する可能性は高くなります。漏洩したアカウントキーによるダメージを軽減するために制限された投稿キーが存在します。
 
 **アクティブキー** - アクティブキーは資金転送、パワーアップ/ダウン、Steem Dollars変換、証人投票、プロフィール詳細情報やアバターの更新、マーケットへの発注などより注意を要するタスクを対象としています。
 
@@ -1300,7 +1303,7 @@ https://steemit.com/privacy.html
 <a class="anchor" name="What_should_I_do_if_I_discover_that_someone_hacked_my_account"></a>
 ## アカウントがハッキングされたことに気付いた場合はどうすればいいですか？
 
-Steemitを通じてアカウントを作成し、それが侵害された場合には、すぐに<a href="https://steemit.com/recover_account_step_1">盗難アカウントの回復ページ</a>に来てください。このリンクはメインメニューからでも利用できます。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。
+Steemitを通じて作成したアカウントそれがハッキングされた場合には、すぐに<a href="https://steemit.com/recover_account_step_1">盗難アカウントの回復ページ</a>に来てください。このリンクはメインメニューからでも利用できます。You will need to provide the email address that you used when you signed up, your account name, and a master password that was used in the last 30 days.登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。
 
 <a href="/faq.html#Table_of_Contents_Security">^</a>
 <a class="anchor" name="How_does_the_stolen_account_recovery_process_work"></a>
