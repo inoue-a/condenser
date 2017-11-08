@@ -1304,7 +1304,7 @@ https://steemit.com/privacy.html
 <a class="anchor" name="What_should_I_do_if_I_discover_that_someone_hacked_my_account"></a>
 ## アカウントがハッキングされたことに気付いた場合はどうすればいいですか？
 
-Steemitを通じて作成したアカウントそれがハッキングされた場合には、すぐに<a href="https://steemit.com/recover_account_step_1">盗難アカウントの回復ページ</a>に来てください。このリンクはメインメニューからでも利用できます。You will need to provide the email address that you used when you signed up, your account name, and a master password that was used in the last 30 days.登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。
+Steemitを通じて作成したアカウントそれがハッキングされた場合には、すぐに<a href="https://steemit.com/recover_account_step_1">盗難アカウントの回復ページ</a>に来てください。このリンクはメインメニューからでも利用できます。登録時のメールアドレスとアカウント名、最近30日以内に使用したマスターパスワードが必要です。
 
 <a href="/faq.html#Table_of_Contents_Security">^</a>
 <a class="anchor" name="How_does_the_stolen_account_recovery_process_work"></a>
