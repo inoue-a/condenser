@@ -1,16 +1,11 @@
-## SteemJPにようこそ！
+﻿
+## Steemitへようこそ！
 
-このサイトは<a href="/@inoue">@inoue</a>がSteemitを翻訳し、一部調整を行ったものです。利用規約等はSteemitに準拠します。本サイトでユーザーサポートは行いませんので、お問合わせは[steemit.com](https://steemit.com)へお願いします。
-
-フィードバック、開発協力は歓迎いたします。<a href="https://steemit.chat/">Steemit Chat</a>で@inoueに話しかけてください。SteemJPのGitHubは<a href="https://github.com/SteemJP/condenser">こちら</a>。
-
-<hr />
-
-このページはプラットフォームに関して学ぶためのこととSteemianとして成功するために役立つ情報が満載です。このページにはメインページの"Welcome"リンクをクリックすることでいつでも戻ることができます。以下はあなたをナビゲートする情報の目次です。
+このページはプラットフォームに関して学び、Steemianとして成功するために役立つ情報が満載です。このページにはメインページの"ようこそ"リンクをクリックすることでいつでも戻ることができます。以下はあなたをナビゲートする情報の目次です。
 
 このページにはプラットフォームの仕組みを理解するための「クイックスタートガイド」と、あなたのアカウントで最初にやることとして推奨されるもの「To Doリスト」が含まれます。
 
-以下にある「Steemitユーザによる便利な記事」のセクションは、これから始める新規ユーザーの役に立つようなコミュニティユーザーの投稿集です。
+以下にある「Steemitユーザによる便利な記事」のセクションは、これから始める新規ユーザーの役に立つようなコミュニティユーザーの投稿集です。 
 
 以下のページには、フォローを推奨するユーザーのリスト、<a href="/faq.html">FAQページ</a>に含まれる情報集、どこでライブヘルプを得られるかの情報があります。
 
@@ -19,7 +14,7 @@
 
 ### クイックスタートガイド
 
-- <a href="/welcome#No_Cost_to_Participate">参加費用は不要です</a>
+- <a href="/welcome#No_Cost_to_Participate">参加費用は不要です</a> 
 - <a href="/welcome#Upvotes">Upvote</a>
 - <a href="/welcome#Comments">コメントする</a>
 - <a href="/welcome#Creating_Posts">投稿を作成する</a>
@@ -28,19 +23,19 @@
 - <a href="/welcome#Resteem">Resteem</a>
 - <a href="/welcome#Digital_Currencies">デジタル通貨</a>
 - <a href="/welcome#Curation">キュレーション</a>
-- <a href="/welcome#Payments">	支払い</a>
+- <a href="/welcome#Payments">支払い</a>
 - <a href="/welcome#Home,_New,_Hot,_Trending,_Promoted,_and_Active">ホーム、新着、ホット、トレンド、プロモート</a>
 - <a href="/welcome#Profile">プロフィール</a>
 - <a href="/welcome#Reputation">評価</a>
 - <a href="/welcome#Cashing_out_or_Spending_SBD">現金化またはSBDを使う</a>
 - <a href="/welcome#Plagiarism">剽窃</a>
 - <a href="/welcome#Password_Security">パスワードセキュリティ</a>
-- <a href="/welcome#Earning_on_Steemit">SteemJPでの収益</a>
+- <a href="/welcome#Earning_on_Steemit">Steemitで稼ぐ</a>
 
 ### ToDoリスト
 
 1. <a href="/welcome#Backup_your_password">パスワードをバックアップする</a>
-2. <a href="/welcome#Sign_Up_for_Steemit_Chat">	Steemit Chatにサインアップする</a>
+2. <a href="/welcome#Sign_Up_for_Steemit_Chat">Steemit Chatにサインアップする</a>
 3. <a href="/welcome#Setup_your_Profile_Avatar_and_Cover_Image">プロフィール、アバター、カバー画像を設定する</a>
 4. <a href="/welcome#Choose_your_NSFW_(Not_Safe_for_Work)_Display_Preference">"NSFW"（閲覧注意）表示設定を選択する</a>
 5. <a href="/welcome#Create_your_introduceyourself_post">"introduceyourself"投稿を作成する</a>
@@ -58,7 +53,7 @@
 <a class="anchor" name="No_Cost_to_Participate"></a>
 ### 参加費用は不要です
 
-投稿、コメント、Steemit.comのすべてのコンテンツへの投票は無料です。あなたが支払いを受けることさえあります！
+投稿、コメント、Steemit.comのすべてのコンテンツへの投票は無料です。むしろ、あなたが支払いを受ける場合があります！
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Upvotes"></a>
@@ -74,21 +69,21 @@ Upvoteするには、コメントや投稿の下にある*Upvote*アイコン<Ic
 
 あなたが最初にスタートするとき、他の人の投稿にコメントすることは、人々と関わり、繋がりを持つための素晴らしい方法です。
 
-投稿にコメントするか、既存のコメントに返信するには、投稿やコメントの下にある"Reply"リンクをクリックしてください。
+投稿にコメントするか、既存のコメントに返信するには、投稿やコメントの下にある"返信"リンクをクリックしてください。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Creating_Posts"></a>
 ### 投稿を作成する
 
-投稿を作成するには、右上にある"Post"リンクをクリックしてください。
+投稿を作成するには、右上にある"投稿"リンクをクリックしてください。
 
 投稿には3つの主要部分があります：タイトル、本文、タグ。
 
 タイトルでは人々の関心を掴み取り、コンテンツに関連したものにするのが良いでしょう。
 
-本文を作成するには、"Editor"モードまたは"Markdown"モードを使用できます。
+本文を作成するには、"エディタ"モードまたは"Markdown"モードを使用できます。
 
-以下のSteemitユーザによる便利な記事セクションに投稿作成のための様々なガイドがあります。
+以下の「Steemitユーザによる便利な記事」セクションに投稿作成のための様々なガイドがあります。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Tags"></a>
@@ -102,15 +97,15 @@ Upvoteするには、コメントや投稿の下にある*Upvote*アイコン<Ic
 
 タグはすべて投稿の内容と関連したものである必要があります。
 
-タグでコンテンツをブラウズするだけでなく、<a href="/tags">ここ</a>で他のユーザが使った人気のあるタグの一覧を見ることができます。
+タグでコンテンツをブラウズするだけでなく、[ここ](https://steemit.com/tags)で他のユーザが使った人気のあるタグの一覧を見ることができます。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Followers_and_Feeds"></a>
 ### フォロワーとフィード
 
-著者をフォローするには、ユーザ名をクリックして"Follow"ボタンをクリックします。
+投稿者をフォローするには、ユーザ名をクリックして"フォロー"ボタンをクリックします。
 
-誰かをフォローすると、ログイン時のホームページ上の"Feed"にその人の投稿がすべて表示されます。
+誰かをフォローすると、ログイン時のホームページ上の"フィード"にその人の投稿がすべて表示されます。
 
 他のSteemianがあなたの投稿やコメントを見ることにより、あなたはフォロワーを獲得できるようになります。
 
@@ -120,15 +115,15 @@ Upvoteするには、コメントや投稿の下にある*Upvote*アイコン<Ic
 <a class="anchor" name="Resteem"></a>
 ### Resteem
 
-あなたが誰かの投稿をフォロワーと共有したい場合は*Resteem*アイコン<Icon name="reblog" />をクリックしてください。
+あなたが誰かの投稿をフォロワーと共有したい場合は*resteem*アイコン<Icon name="reblog" />をクリックしてください。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Digital_Currencies"></a>
 ### デジタル通貨
 
-STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用されている3種類のデジタル通貨です。
+STEEM、Steem Power、Steem DollarsはSteemブロックチェーンで使用されている3種類のデジタル通貨です。
 
-3種類のトークンの詳細な情報は<a href="/faq.html">FAQページ</a>を参照してください。
+3種類のトークンに関する詳細な情報は[Steemit FAQ](https://steemit.com/faq.html)を参照してください。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Curation"></a>
@@ -136,7 +131,7 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 投稿への報酬の最大25%が投票者に行きます。これらの人々をキュレーターと呼びます。
 
-アカウントのSTEEMパワーが大きいほど、アップヴォートの価値が上がり、得られる潜在的なキュレーション報酬も増加します。
+アカウントのSteem Powerが大きいほどupvoteの価値が上がり、得られる潜在的なキュレーション報酬も増加します。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Payments"></a>
@@ -146,11 +141,11 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 最終的な支払いに達するまで、支払いは変動（増減）します。
 
-支払いは著者（少なくとも75%）とキュレーター（最大25%）に分割されます。
+支払いは投稿者（少なくとも75%）とキュレーター（最大25%）に分割されます。
 
-著者報酬は50%をSTEEMパワー、50%をリキッドSTEEM/SBDで支払われます。
+投稿者報酬の50%がSteem Power、もう50%が流動的なSTEEM/SBDで支払われます。
 
-著者は支払い辞退や100%をSTEEMパワーで受け取るオプションも選択できます。
+投稿者は支払い辞退や100%をSteem Powerで受け取るオプションも選択できます！
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Home,_New,_Hot,_Trending,_Promoted,_and_Active"></a>
@@ -166,7 +161,7 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 **トレンド** - 現在最も高い報酬を留保されている投稿です。
 
-**プロモート** - より良い閲覧性を得るために、Steemドルを支払って“プロモート”された投稿の一覧です。
+**プロモート** - より良い閲覧性を得るために、Steem Dollarを支払って“プロモート”された投稿の一覧です。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Profile"></a>
@@ -182,11 +177,11 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 **返信** - ここではあなたの投稿やコメントへ他のユーザが出したすべての返信を見ることができます。
 
-**ウォレット** - ここではウォレット残高を確認したり、資金を移動したり、STEEMまたはSteem Dollarの取引をしたり、パワーアップをすることができます。
+**ウォレット** - ここではウォレット残高を確認したり、資金を移動したり、STEEMとSBDを交換したり、パワーアップを行うことができます。
 
-**パスワードの変更** - ここはパスワードを変更する場所です。
+**パスワードの変更** - ここではパスワードを変更できます。
 
-**設定** - ここはあなたの設定を更新するための場所です。
+**設定** - ここではあなたの設定を更新できます。
 
 **ログアウト** - ログアウトします。
 
@@ -196,11 +191,11 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 評価スコアはあなたがコミュニティにもたらした価値の総量をSteemitが測る尺度の1つです。
 
-高い数値を持つほど、アカウントの得票数が増加します。
+高い数値を持つほど、アカウントが得られる投票が増加します。
 
-すべての新規アカウントは25でスタートします。
+すべての新規ユーザーは25でスタートします。
 
-投稿やコメントにアップヴォートを得ると評価は上がり、フラグを立てられると下がります。
+投稿やコメントにupvoteを得ると評価は上がり、フラグを立てられると下がります。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Cashing_out_or_Spending_SBD"></a>
@@ -210,7 +205,7 @@ STEEM、STEEM POWER、STEEM DOLLARSはSteemブロックチェーンで使用さ�
 
 STEEMまたはSBDを[BlockTrades](https://blocktrades.us/)や[Bittrex](https://bittrex.com/)などの取引所でビットコインと交換することができます。
 
-"Power Up"でSTEEMやSBDをSTEEMパワーにすることもできます！
+"パワーアップ"でSTEEMやSBDをSteem Powerにすることもできます！
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Plagiarism"></a>
@@ -218,7 +213,7 @@ STEEMまたはSBDを[BlockTrades](https://blocktrades.us/)や[Bittrex](https://b
 
 コミュニティはあなたの記事にあなたの個性を期待しています。
 
-他人の作品を自身のもののように投稿する盗作は、Steemコミュニティでは非常に嫌われています。
+他人の作品を自身のもののように投稿する剽窃行為は、Steemitコミュニティでは非常に嫌われています。
 
 あなたの記事の一部（画像を含む）として他者の素材を使用するときは、出典を挙げてください。
 
@@ -228,17 +223,17 @@ STEEMまたはSBDを[BlockTrades](https://blocktrades.us/)や[Bittrex](https://b
 <a class="anchor" name="Password_Security"></a>
 ### パスワードセキュリティ
 
-Steemアカウントには実際の金銭的価値があります。Steemのパスワードは銀行のパスワードと同様に扱い、安全に保管してください！
+Steemitアカウントには実際の金銭的価値があります。Steemitのパスワードは銀行のパスワードと同様に扱い、安全に保管してください！
 
-パスワードが最近変更されておらず、古いものを持っていない場合は、Steemアカウントのパスワード回復手段はありません。あなたにはパスワードをバックアップする100%の責任があります。これは安全なデジタルバックアップだけではなく、可能ならばオフラインで安全な紙のバックアップもとっておいてください。
+パスワードが最近変更されておらず、古いものを持っていない場合は、**Steemアカウントのパスワード回復手段はありません**。あなたにはパスワードをバックアップする100%の責任があります。安全なデジタルバックアップだけではなく、可能ならばオフラインで安全な紙のバックアップも作成しておいてください。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Earning_on_Steemit"></a>
-### SteemJPでの収益
+### Steemitで稼ぐ
 
-ベストな姿勢は何も期待しないことです。楽しむ。議論する。友人を作る。あなたが何かを得た場合、それはボーナスです！
+ベストな姿勢は何も期待しないことです。楽しんで、交流し、友達を作りましょう。あなたが何かを得た場合、それはボーナスです！
 
-何千ドルも稼ぐことは可能ですが、そのような著者のほとんどは、多くの時間を費やしてコミュニティに貢献し、フォロワーを構築しています。
+何千ドルも稼ぐことは可能ですが、そのような投稿者のほとんどは、多くの時間を費やしてコミュニティに貢献し、フォロワーを構築しています。
 
 <a href="/welcome#Table_of_Contents">^</a>
 
@@ -249,7 +244,7 @@ Steemアカウントには実際の金銭的価値があります。Steemのパ�
 <a class="anchor" name="Backup_your_password"></a>
 ### 1. パスワードをバックアップする
 
-集中化されたwebサービスとは異なり、**Steemブロックチェーンにアカウント回復手段はありません。**
+集中化されたwebサービスとは異なり、**Steemブロックチェーンにアカウントパスワードの回復手段はありません**。
 
 パスワードを保持し、安全に保管することは完全にあなたの責任です。
 
@@ -263,15 +258,13 @@ Steemアカウントには実際の金銭的価値があります。Steemのパ�
 <a class="anchor" name="Sign_Up_for_Steemit_Chat"></a>
 ### 2. Steemit Chatにサインアップする
 
-多くのユーザが、Steemitの投稿や閲覧をしていないときに、集まってチャットをしています。人々と出会うための素晴らしい場所です。
+多くのユーザが、Steemitの投稿や閲覧をしていないときに、集まってチャットをしています。そこは人々と出会うための素晴らしい場所です。
 
 右上のメインメニューにサインアップするためのリンクがあります。
 
 [steemit.chat](https://steemit.chat/home)のアカウントはSteemアカウントとは区別されています。
 
 一部のチャンネルではリンクを共有できますが、他のチャンネルではできません。例えば、[general](https://steemit.chat/channel/general)はリンク宣伝ではなく議論するためのチャンネルです。[postpromotion](https://steemit.chat/channel/postpromotion)はSteemの投稿を宣伝するためのチャンネルです。
-
-日本語のチャンネルは[japan](https://steemit.chat/channel/japan)です。日本語の記事の宣伝は[japanese-promotion](https://steemit.chat/channel/japanese-promotion)でできます。
 
 各チャンネルは"Info"にルールが記載されています。
 
@@ -301,11 +294,11 @@ NSFWの表示設定を、デフォルトで常に表示するか、閲覧する�
 
 必須ではありませんが、伝統的に新規ユーザは"introduceyourself"投稿を作成し、コミュニティに自己紹介を行います。
 
-他の人がどうやっているのかの例を<a href="/trending/introduceyourself">ここ</a>で見ることができます。
+他の人がどうやっているのかの例を [ここ](https://steemit.com/trending30/introduceyourself)で見ることができます。
 
 これは必須ではありませんが、多くのユーザが"Steemit"と現在の日付が書かれた紙を持った写真を撮り、実在の人物であることを知らせています。
 
-これもまた必須ではありませんが、他のソーシャルメディアアカウント（Twitter、Facebookなど）を持っている場合は、あなたの"introduceyourself"投稿のリンクをそれらのアカウントで共有することにより、あなたが主張している人物自身であることを確認できるようにします。あなたが自身を有名人であると主張している場合は、これを行うことは非常に期待されています。
+これもまた必須ではありませんが、他のソーシャルメディアアカウント（Twitter、Facebookなど）を持っている場合は、あなたの"introduceyourself"投稿のリンクをそれらのアカウントで共有することにより、あなたが主張している人物自身であることを確認できるようにします。あなたが自身を著名人であると主張している場合は、これを行うことは非常に期待されています。
 
 <a href="/welcome#Table_of_Contents">^</a>
 
@@ -358,10 +351,10 @@ NSFWの表示設定を、デフォルトで常に表示するか、閲覧する�
 <a class="anchor" name="Other_Resources"></a>
 ## その他のリソース
 
-- <a href="/faq.html">FAQ</a>
+- [FAQ](https://steemit.com/faq.html)
 - [Steemit Help](https://www.steemithelp.net/)
 - [Steemホワイトペーパー](https://steem.io/SteemWhitePaper.pdf)
-- [Steem App Center](http://steemtools.com/)
+- [Steemアプリセンター](http://steemtools.com/)
 - [Steemブロックエクスプローラ](https://steemd.com/)
 - [Steemブロックチェーンエクスプローラ](https://steemdb.com/)
 
@@ -370,18 +363,17 @@ NSFWの表示設定を、デフォルトで常に表示するか、閲覧する�
 ## ライブヘルプ
 
 一般的な質問は[steemit.chat](https://steemit.chat/home)の[help](https://steemit.chat/channel/help)チャンネルでしてください。チャンネルのユーザは通常、数時間以内に返答します。
-New Member Support Communityは新規ユーザがSteemitでどうすればよいのか助けることに献身的な人々のグループです。Discordの[New Member Support Community](https://discord.gg/HYj4yvw)チャンネルにいます。
 
-日本語で質問したい時はsteemit.chatの[japan](https://steemit.chat/channel/japan)チャンネルで聞くと回答が得られるかもしれません。ただし、サポートチャンネルではありませんので期待しすぎないようにしてください。
+New Member Support CommunityはSteemitでどうすればよいか困っている新規ユーザを献身的にサポートする人々のグループです。Discordの[New Member Support Community](https://discord.gg/HYj4yvw)チャンネルにいます。
 
 <a href="/welcome#Table_of_Contents">^</a>
 <a class="anchor" name="Third_Party_References"></a>
 ## サードパーティへの参照
 
-本サイトを含む、Peerhub、BlockTrades、Bittrex、Steemit Chat、Steemit Help、New Member Support Community、Discordや“その他のリソース”で掲載されているツールはサードパーティのアプリケーション/サービスであり、Steemit, Incで所有、管理されているものではありません。ここに記載されているものはSteemit, Incを代表して設立、保証または推奨されるものではありません。
+Peerhub、BlockTrades、Bittrex、Steemit Chat、Steemit Help、New Member Support Community、Discordや“その他のリソース”で掲載されているツールはサードパーティのアプリケーション/サービスであり、Steemit, Incで所有、管理されているものではありません。ここに記載されているものはSteemit, Incを代表して設立、保証または推奨されるものではありません。
 
-“Steemユーザによる便利な記事”のすべてのリンクはユーザによって作成されたものであり、Steemit, Incまたは経営者の見解を代表するものではありません。
+「Steemユーザによる便利な記事」のすべてのリンクはユーザによって作成されたものであり、Steemit, Incまたは経営者の見解を代表するものではありません。
 
-本サイトを含むサードパーティのツールやコンテンツは自身の責任において使用してください。
+サードパーティのツールやコンテンツは自身の責任において使用してください。
 
 <a href="/welcome#Table_of_Contents">^</a>
